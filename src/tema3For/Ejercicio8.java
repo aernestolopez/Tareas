@@ -22,5 +22,7 @@ public class Ejercicio8 {
         System.out.println("Total acumulado: " + suma);
         System.out.println("Total de números introducidos: " + contador);
         System.out.println("Media de los números: " + media);
+        sc.close();
     }
+
 }
